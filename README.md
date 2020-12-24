@@ -24,13 +24,11 @@ Create SuperUser
 python manage.py createsuperuser
 ```
 
+<br/>
+Rename the file .example.env inside django_blog folder to .env and add the required fields inside it
+<br/>
+<hr/>
 
-Rename the file .example.env inside django_blog folder to .env and the required fields inside it
-
-Create SuperUser
-```
-python manage.py createsuperuser
-```
 After all these steps , you can start testing and developing this project.
 
 ### That's it! Happy Coding!
